@@ -1,4 +1,8 @@
 # py-qr
-QR Code generation with python
+Custom URL to QRcode generation.
 
-Package: $pip install pyqrcode
+Packages:
+```Bash
+$pip install pyqrcode
+$pip install validators
+```
